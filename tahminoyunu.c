@@ -14,9 +14,7 @@ int main(){
     int tahmin=0;
     int thmn[4];
     rndm(time(NULL));
-    for(int i=0;i<4;i++){
-        printf("%d",sayi[i]);
-    }
+
     while(p != 4){
         p=0;
         n=0;
